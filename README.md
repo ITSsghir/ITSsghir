@@ -39,7 +39,7 @@ from portfolio import DataScience, Visualisation, MachineLearning
 anas.load(
     role="Data Scientist",
     company="La Banque Postale",
-    student="Sorbonne (Miage)",
+    student="Toulouse (Miage)",
     stack=["Python", "Pandas", "Numpy", "SQL", "NoSQL", "Dataiku", "Tableau"]
 )
 ```
