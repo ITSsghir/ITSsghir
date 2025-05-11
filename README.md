@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Scientist @ La Banque Postale | 🎓 MIAGE – Ingénierie des Données & Protection</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ITSsghir/ITSsghir/main/assets/data_banner.gif" width="80%"/>
+  <img src="https://komarev.com/ghpvc/?username=itssghit&label=Profile%20views&color=0e75b6&style=flat" alt="itssghit" />
 </p>
 
 ---
